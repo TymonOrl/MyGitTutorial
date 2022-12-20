@@ -16,3 +16,5 @@ pull -> Download changes from remote repo to your local machine, the opposite of
 Step by step:
 1. Save your local file
 2. git status 
+3. git add
+4. git commit -m "Title" -m "Description"
