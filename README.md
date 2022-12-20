@@ -18,3 +18,4 @@ Step by step:
 2. git status 
 3. git add
 4. git commit -m "Title" -m "Description"
+5. git push
